@@ -1,0 +1,8 @@
+tkinter
+autopep8
+black
+pyflakes
+pylint
+clang
+google-java-format
+pip install tkinter
