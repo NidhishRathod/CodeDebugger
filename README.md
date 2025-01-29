@@ -33,7 +33,7 @@ For Java:
 To install the required Python libraries, run:
 
 ```
-pip install autopep8 pyflakes
+pip install requirements.txt
 
 ```
 
